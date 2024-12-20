@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="60px" height="60px">
+</p>
+
+
 <h1 align="center">
 Hi, I'm DUNNYMORE!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
@@ -13,7 +18,7 @@ Hi, I'm DUNNYMORE!
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="290px" align="right" />
 
 - 🙋‍♂️ All about me is at **[My Website]()**
 
@@ -60,7 +65,11 @@ Hi, I'm DUNNYMORE!
   <a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"></a>
 </p>
 
+
+
 ### 🗄️ Databases and Cloud Hosting
+
+
 
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
