@@ -22,7 +22,7 @@ Hi, I'm DUNCAN MWANIKI!
 
 - 🙋‍♂️ All about me is at **[My Website](https://dunnymore-personal-portfolio.vercel.app/)**
 
-- 🔭 I’m a graduate with Second Class Houners( UPPER DIVISION) in bachelors Information and Communication Technology (ICT) : `graduate`.
+- 🔭 I’m a graduate with Second Class Honours( UPPER DIVISION) in bachelors Information and Communication Technology (ICT) : `graduate`.
 
 - 🌱 I’m currently learning `Cloud computing`
 
